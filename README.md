@@ -7,6 +7,7 @@
 ユーザー管理画面（詳細表示や削除が可能）
 
 <img width="1440" alt="Ảnh màn hình 2025-03-06 lúc 23 36 28" src="https://github.com/user-attachments/assets/fa919149-ef2d-42c8-a4ba-012bffbabf16" />
+<img width="770" alt="Ảnh màn hình 2025-03-07 lúc 00 13 11" src="https://github.com/user-attachments/assets/fbfe61ea-936e-4d8b-942b-da4d6f991e30" />
 
 ユーザー追加画面
 
